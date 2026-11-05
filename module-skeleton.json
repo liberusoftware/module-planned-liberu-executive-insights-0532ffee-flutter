@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-executive-insights-0532ffee-flutter",
+  "capabilityKey": "planned:liberu:executive-insights",
+  "presentation": "mobile-flutter",
+  "package": "module_planned_liberu_executive_insights_0532ffee_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/liberu/nextjs/executive-insights.md",
+  "presentationPlan": "projects/liberu/flutter/executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
